@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:8000",
+  "proxy": "https://maroon-adder-cuff.cyclic.app/",
   "name": "devrev-project",
   "version": "0.1.0",
   "private": true,
